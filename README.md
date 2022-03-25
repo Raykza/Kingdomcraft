@@ -40,7 +40,7 @@
    
    ### 2. Descomprimirlo
    
-   ### 3. Tener un instalado en tu .minecraft la version [FORGE - 40.0.18](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.0.18/forge-1.18.2-40.0.18-installer.jar)
+   ### 3. Tener instalado en tu .minecraft la version [FORGE - 40.0.18](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.0.18/forge-1.18.2-40.0.18-installer.jar)
  
    ### 4. Copiar todo el contenido del zip descomprimido en el .minecraft
    

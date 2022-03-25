@@ -5,7 +5,7 @@
   
   Requisitos para jugar
   - 4 GB de RAM
-  # Instrucciones para descargar el modpack
+  # Instrucciones para [descargar el modpack](https://github.com/Raykza/Kingdomcraft/releases/download/release/Kingdomcraft.zip)
   
   ## Usuarios Premium
   
@@ -36,7 +36,7 @@
   
   ## Usuarios No Premium
   
-   ### 1. Descargar el modpack
+   ### 1. Descargar el [modpack](https://github.com/Raykza/Kingdomcraft/releases/download/standalone/Kingdomcraft-standalone.zip)
    
    ### 2. Descomprimirlo
    

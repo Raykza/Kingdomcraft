@@ -15,7 +15,7 @@
 <ul>
     <li><h4>Usuarios Premium</h4>
         <ol><h5>
-            <li>Descargar CurseForge App</li>
+            <li><h5>Descargar CurseForge App</h5></li>
                 <img src="./assets/curse.png">
                 <a title="CurseForge webpage" href="https://download.curseforge.com/" target="_blank">
                     CurseForge Official Download

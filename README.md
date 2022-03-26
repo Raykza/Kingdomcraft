@@ -5,6 +5,7 @@
   Requisitos para jugar
 
 - 4 GB de RAM
+- [Java 8](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=245776_df5ad55fdd604472a86a45a217032c7d) **para los launcher no premium.**
 - [Java 17](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
 
 <div align='center'>

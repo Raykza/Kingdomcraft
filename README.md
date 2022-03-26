@@ -19,7 +19,7 @@
      
      <img src="./assets/curse.png">[Download](https://download.curseforge.com/)
   
-  ### 2. Descargar la [release correspondiente](https://github.com/Raykza/Kingdomcraft/releases/tag/release)
+  ### 2. Descargar la [release correspondiente](https://github.com/Raykza/Kingdomcraft/releases/download/release/Kingdomcraft-v1.zip)
   
   ### 3. En la CurseForge App, seleccionar el juego y luego _Create Custom Profile_
      

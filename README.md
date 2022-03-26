@@ -1,47 +1,45 @@
 <div align="center">
-<img src="https://github.com/Raykza/KingdomcraftReborn/blob/main/KCRBN.png">
+<img src="./assets/logo.png">
   <h1>Client-side modpack</h1></div>
-  
-  
+
   Requisitos para jugar
-  - 4 GB de RAM
-  # Instrucciones para [descargar el modpack](https://github.com/Raykza/Kingdomcraft/releases/download/release/Kingdomcraft.zip)
-  
-  ## Usuarios Premium
-  
-   ### 1.Descargar CurseForge App
 
-   ![curse](./assets/curse.png) [Download](https://download.curseforge.com/)
+- 4 GB de RAM
 
-   ### 2. Seleccionar juego
+---
 
-   ![mine](./assets/mine.png)
+<div align='center'>
+  <h3>Instrucciones para descargar e instalar el modpack<h3>
+  </div>
 
-   ### 3. Seleccionar "Create Custom Profile" o "Crear perfil seleccionado" (para los hinchas de boca)
-
-   ![curse1](./assets/curse1.png)
-
-   ### 4. Selecionar la opcion de importar
-
-   ![curse2](./assets/curse2.png)
-
-   ### 5. Selecionar el archivo modpack
-
-   ![curse3](./assets/curse3.png)
-
-   ### 6. Ready to play
-
-   ![curse4](./assets/curse4.png)
-  
-  
-  ## Usuarios No Premium
-  
-   ### 1. Descargar el [modpack](https://github.com/Raykza/Kingdomcraft/releases/download/standalone/Kingdomcraft-standalone.zip)
-   
-   ### 2. Descomprimirlo
-   
-   ### 3. Tener instalado en tu .minecraft la version [FORGE - 40.0.18](https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.0.18/forge-1.18.2-40.0.18-installer.jar)
- 
-   ### 4. Copiar todo el contenido del zip descomprimido en el .minecraft
-   
-   ### 5. Ready to play
+<ul>
+    <li><h4>Usuarios Premium</h4>
+        <ol><h5>
+            <li>Descargar CurseForge App</li>
+                <img src="./assets/curse.png">
+                <a title="CurseForge webpage" href="https://download.curseforge.com/" target="_blank">
+                    CurseForge Official Download
+                </a>
+            <li>Descargar la <a title="Kingdomcraft/release" href="https://github.com/Raykza/Kingdomcraft/releases/tag/release" target="_blank">
+                    release oficial</a> de este modpack correspondiente</li>
+            <li>En la app de CurseForge, seleccionar el juego</li>
+                <img title="mine" src="./assets/mine.png" alt="mine" data-align="left">
+            <li>Seleccionar <i>Create Custom Profile</i></li>
+                <img title="curse1" src="./assets/curse1.png" alt="mine" data-align="left">
+            <li>Seleccionar la opcion <i>import a previously created profile</i></li>
+                <img title="curse1" src="./assets/curse2.png" alt="mine" data-align="left">
+            <li>Seleccionar el .zip descargado de la release</li>
+                <img title="curse1" src="./assets/curse3.png" alt="mine" data-align="left">
+            <li><h5>Listo!</h5>
+                <img title="curse1" src="./assets/curse4.png" alt="mine" data-align="left">
+        </ol>
+    </li>
+    <li><h4>Usuarios No Premium</h4>
+        <ol><h5>
+            <li>Descargar y descomprimir el .zip de la <a href='https://github.com/Raykza/Kingdomcraft/releases/tag/standalone'>release correspondiente</a></li>
+            <li>Instalar en <code>./minecraft</code> el cliente de <a href='https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.0.18/forge-1.18.2-40.0.18-installer.jar'>Forge (v40.0.18)</a></li>
+            <li>Copiar todo el contenido de la release en <code>./minecraft</code></li>
+            <li>Listo!</li></h5>
+        </ol>
+    </li>
+</ul>

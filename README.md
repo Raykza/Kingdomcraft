@@ -39,7 +39,7 @@
 
 - ## Usuarios no Premium
   
-  ### 1. Descargar y descomprimir la [release correspondiente.](https://github.com/Raykza/Kingdomcraft/releases/tag/standalone)
+  ### 1. Descargar y descomprimir la [release correspondiente.](https://github.com/Raykza/Kingdomcraft/releases/download/standalone/Kingdomcraft-v1-standalone.zip)
   
   ### 2. Instalar en `./minecraft` el cliente de [Forge (v40.0.18)](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.0.18/forge-1.18.2-40.0.18-installer.jar)
   

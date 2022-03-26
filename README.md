@@ -5,6 +5,7 @@
   Requisitos para jugar
 
 - 4 GB de RAM
+- [Java 17](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
 
 <div align='center'>
   <h2>Instrucciones para descargar e instalar el modpack<h3>

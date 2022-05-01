@@ -50,15 +50,15 @@
 # MODPACK V2
    
   **MODS AGREGADOS**
-- *Additional banners* https://www.curseforge.com/minecraft/mc-mods/additional-banners
-- *Builder's Delight* https://www.curseforge.com/minecraft/mc-mods/builders-delight-forge
-- *Chipped* https://www.curseforge.com/minecraft/mc-mods/chipped
-- *Curios Lights* https://www.curseforge.com/minecraft/mc-mods/curious-lights
-- *Farmer's Delight* https://www.curseforge.com/minecraft/mc-mods/farmers-delight
-- *Nether's Delight* https://www.curseforge.com/minecraft/mc-mods/nethers-delight
-- *Farmer's Respite* https://www.curseforge.com/minecraft/mc-mods/farmers-respite
-- *Re-Chiseled* https://www.curseforge.com/minecraft/mc-mods/rechiseled
-- *Simple Shops* https://www.curseforge.com/minecraft/mc-mods/simple-shops
+- [*Additional banners*](https://www.curseforge.com/minecraft/mc-mods/additional-banners)
+- [*Builder's Delight*](https://www.curseforge.com/minecraft/mc-mods/builders-delight-forge)
+- [*Chipped*](https://www.curseforge.com/minecraft/mc-mods/chipped)
+- [*Curios Lights*](https://www.curseforge.com/minecraft/mc-mods/curious-lights)
+- [*Farmer's Delight*](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
+- [*Nether's Delight*](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+- [*Farmer's Respite*](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
+- [*Re-Chiseled*](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
+- [*Simple Shops*](https://www.curseforge.com/minecraft/mc-mods/simple-shops)
     
   # Instrucciones  
   ### 1. Descargar y descomprimir la [release correspondiente.](https://github.com/Raykza/Kingdomcraft/releases/download/v2/Kingdomcraft.v2.rar)

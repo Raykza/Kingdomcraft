@@ -76,7 +76,7 @@
   
   ### 1. Descargar y descomprimir la [release correspondiente.](https://github.com/Raykza/Kingdomcraft/releases/download/standalone/Kingdomcraft-v1-standalone.zip)
   
-  ### 2. Instalar en `./minecraft` el cliente de [Forge (v40.0.40)](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.0.40/forge-1.18.2-40.0.40-installer.jar)
+  ### 2. Instalar en `./minecraft` el cliente de [Forge (v40.1.0)](https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.1.0/forge-1.18.2-40.1.0-installer.jar)
   
   ### 3. En la misma carpeta, sobreescribir su contenido con el del `.zip` de la release.
   
